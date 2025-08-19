@@ -13,12 +13,28 @@
             "last_name": "Aliyev",
             "email": "vali@gmail.com",
             "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+        },
+        {
+            "id": "6ca2f18b-a437-4d4f-a0e8-7ed47bfb76f6",
+            "first_name": "Shodi",
+            "last_name": "Aatoqulov",
+            "email": "shodi@gmail.com",
+            "password": "7526f996fb0a4380f8d3641032419c1476fc6187baf96aa48ad25b2f96119d06"
         }
     ],
     "products": [
-        {"nom": "Stol", "narx": 500000},
-        {"nom": "Stul", "narx": 200000},
-        {"nom": "Shkaf", "narx": 1200000}
+        {
+            "nom": "Stol",
+            "narx": 500000
+        },
+        {
+            "nom": "Stul",
+            "narx": 200000
+        },
+        {
+            "nom": "Shkaf",
+            "narx": 1200000
+        }
     ],
     "orders": []
 }
