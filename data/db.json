@@ -36,5 +36,10 @@
             "narx": 1200000
         }
     ],
-    "orders": []
+    "orders": [
+        {
+            "user_id": "fdf",
+            "products": ["fdsfas", "fdsafasd"]
+        }
+    ]
 }
